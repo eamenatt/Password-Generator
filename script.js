@@ -29,7 +29,7 @@ function generatePassword() {
       console.log("sakoo");
     } else {
       alert(
-        "'You have entered an invalid number of characters. Please try again"
+        "You have entered an invalid number of characters. Please try again"
       );
       return "Please click the 'Generate Password' button again";
     }
